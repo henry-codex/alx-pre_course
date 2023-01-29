@@ -1,1 +1,1 @@
-My first readme
+i made some changes in the bash directory take a look
