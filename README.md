@@ -1,1 +1,1 @@
-i made some changes in the bash directory take a look
+I made some changes in the bash directory take a look
